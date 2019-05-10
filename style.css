@@ -1,0 +1,125 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+    /* <!-- @@@@@ this portion are header @@@@@ -->*/
+#header{
+	height: 82px;
+	width: 100%;
+	background-color: #3E5C9A;
+	box-sizing: border-box;
+	border-bottom: 1px solid #143883;
+	padding: 15px;
+}
+   /*fb pic*/
+   #pic{
+   	height: 60px;
+   	width: 190px;
+   	background-color: #3E5C9A;
+   	margin-left: 150px;
+   	float: left;
+
+   }
+    /*div for email*/
+   #btn{
+   	height: 60px;
+   	width: 80px;
+   	box-sizing: border-box;
+   	padding-top: 18px;
+   	padding-left: 0px;
+   	background-color: #3E5C9A;
+   	margin-right: 70px;
+   	float: right;
+
+   }
+
+    /*div for pass */
+    #pass{
+   	height: 60px;
+   	width: 150px;
+   	background-color: #3E5C9A;
+   	
+   	float: right;
+
+   }
+
+    /*div for btn */
+    #email{
+   	height: 60px;
+   	width: 150px;
+   	background-color: #3E5C9A;
+   	
+   	float: right;
+
+   }
+   
+
+
+
+    	/*<!-- @@@@@ this portion are section @@@@@ -->*/
+
+#section{
+	height: 580px;
+	width: 65%;
+	background-color: #DFE3EE;
+	float: left;
+}    	
+
+#main_section{
+  height: 400px;
+  width: 60%;
+  background-color: #DFE3EE;
+  box-sizing: border-box;
+  margin-left: 190px;
+  margin-top: 22px;
+}
+#text{
+  height: 80px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #DFE3EE;
+  padding-top: 35px;
+
+}
+#img{
+  height: 300px;
+  width: 100%;
+  background-color: #DFE3EE;
+}
+
+
+
+/*<!-- @@@@@ this portion are aside @@@@@ -->*/
+
+#aside{
+	height: 580px;
+	width: 35%;
+	background-color:#DFE3EE;
+	float: left;
+} 
+#heading{
+  box-sizing: border-box;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}   
+#heading p{
+  font-weight: bold;
+}	
+
+#form input[type="text"]{
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+#form input[type="email"]{
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+#form input[type="password"]{
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
